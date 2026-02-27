@@ -1,0 +1,4 @@
+Aptitude Questions:
+1. Find the average of 10, 20, 30.
+2. A train travels 60 km in 1 hour. What is its speed?
+3. If 2x = 10, find x.
